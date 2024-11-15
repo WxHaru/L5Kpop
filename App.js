@@ -30,7 +30,7 @@ const datasource = [
   },
   {
     title: "Blackpink",
-    bgColor: "Black",
+    bgColor: "black",
     data: [
       { name: 'Rose', cardImage: "https://lh3.googleusercontent.com/B_3SAta9A8qlninZdmm4M8r_PpOk9zEunUPxDLJF45tZzj9ruw3ekW6wciSgBiJs2Oqq5KTuWeryBywXMzzNG933D0nmL0Rb=w960-rj-nu-e365" },
       { name: 'Jisoo', cardImage: "https://lh3.googleusercontent.com/-o4b0jGjyXr1PFCJpobVw_QfwTNxMcoIQ_J13uEbjBesrS30_1cO3lcYffgnbgkH4rskmF0FAxAaX1TGnxxmLJ3_tuftFLw6=w1600-rj" },
